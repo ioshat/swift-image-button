@@ -1,0 +1,15 @@
+{
+  "name": "ioshat-swift-image-button",
+  "title": "Image Button (Swift)",
+  "version": "0.0.1",
+  "description": "Template for Image Button in Swift",
+  "scope": "source.swift",
+  "main": "main.coffee",
+  "category": "image",
+  "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "bundledDependencies": [
+  ]
+}
